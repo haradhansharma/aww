@@ -1,0 +1,7 @@
+.container{
+    max-width: 768px;
+    width: 100%;
+}
+.featured-image-list{
+    object-fit: cover;
+}
